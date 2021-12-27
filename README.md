@@ -24,4 +24,6 @@ I always learning and improven my knowledge.
 **Frameworks & Librerys that I actually learning.**
  - REACT.JS
  - NEXT.JS
- - GSAP (GreenShock for animation). 
+ - GSAP (GreenShock for animation).
+ - VUE.JS
+ - ANGULAR.JS
